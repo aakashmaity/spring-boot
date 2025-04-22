@@ -1,0 +1,36 @@
+[
+  {
+    "uid": 289363,
+    "name" : "Akshay",
+    "devices": [
+      {
+        "did": "633h272g",
+        "device_name": "ABC",
+        "ip": "10.135.6.217"
+      },
+      {
+        "did": "5726gg2",
+        "device_name": "XYZ",
+        "ip": "10.135.5.266"
+      }
+    ],
+    "state": "WB"
+  },
+  {
+    "uid": 289672,
+    "name" : "Rohit",
+    "devices": [
+      {
+        "did": "773yye9",
+        "device_name": "udh",
+        "ip": "10.135.6.908"
+      },
+      {
+        "did": "duw",
+        "device_name": "tyu",
+        "ip": "10.135.5.829"
+      }
+    ],
+    "state": "UP"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id":1,
+  "name": "Akash Maity",
+  "username" : "akashmaity",
+  "age": 24,
+  "content":"Hello, User!",
+  "parent":{
+    "child":{
+      "header":{
+        "attrOne":"value1",
+        "attrTwo":"value2"
+      },
+      "footer":{
+        "attrOne":"value1",
+        "attrTwo":"value2"
+      }
+    }
+  }
+}
